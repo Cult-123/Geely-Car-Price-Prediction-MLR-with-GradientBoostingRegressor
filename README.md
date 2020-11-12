@@ -7,9 +7,9 @@ Price is Target variable & Features are PriceCategory, Company, Aspiratiion, Car
 
 ## Project Overview
 
-In this Project I will try to unleash useful insights using this CAR Price datasets and will perform feature selection to build multiple linear regression model by combining the power of best statistical rules & principles to maximise accuracy at its best. The best thing is my model is not having Multicollinearity problem.
+In this Project I have unleashed the useful Data Science insights using this CAR Price datasets and performed the feature selection precisely to build multiple linear regression model by combining the power of best statistical rules & principles to maximise accuracy at its best. The best thing is my model is not having Multicollinearity problem.
 
-This Project is divided into 13 major steps which are as follows:
+## This Project is divided into 13 major steps which are as follows:
 
 1. [Check out the Data](#data-desc)
 2. [Importing Libraries & setting up environment](#imp-lib)
@@ -29,6 +29,16 @@ This Project is divided into 13 major steps which are as follows:
 16. [Scaling of Numeric Features](#Features-Scaling)
 17. [Train & Test Split](#data-Split)
 17. [Features P-Value & VIF Check](#data-Split)
+18. [Final Implimentation of the MLR Model](#data-Split)
+19. [Model Evaluation](#data-Split)
+20. [Actual vs Predicted Price of Used CAR](#data-Split)
+21. [Residual Distribution of Predicted Used CAR Price](#data-Split)
+22. [Amount of Error in Used CAR Price Prediction](#data-Split)
+23. [Durbin Watson Auto-Correlation Test](#data-Split)
+24. [Regression Evaluation Metrics](#data-Split)
+25. [Plotting the Regression Line](#data-Split)
+26. [Heteroscedasticity Tests](#data-Split)
+
 
 ## About Data
 
