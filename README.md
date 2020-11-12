@@ -26,6 +26,9 @@ This Project is divided into 13 major steps which are as follows:
 13. [Saving The Cleaned CAR DataFrame](#data-Clean)
 14. [Assigning Label & Features](#Labe-Feature)
 15. [Features Encoding Technique](#Features-Encoding)
+16. [Scaling of Numeric Features](#Features-Scaling)
+17. [Train & Test Split](#data-Split)
+17. [Features P-Value & VIF Check](#data-Split)
 
 ## About Data
 
