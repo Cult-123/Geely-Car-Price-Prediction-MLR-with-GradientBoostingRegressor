@@ -44,8 +44,8 @@ In this Project I have unleashed the useful Data Science insights using this CAR
 
 This dataset consists of 27 features and a target variable. It has 9 nominal variables, 13 numeric variables, 5 ordinal variables. The detailed description of all the features are as follows:
 
-**1. Age:** Patients Age in years (Numeric)<br>
-**2. Sex:** Gender of patient (Male - 1, Female - 0) (Nominal)<br>
+**1. wheelbase, carlength, carwidth, carheight, curbweight, enginesize, boreratio, stroke, compressionratio, horsepower, CityMileage, HighwayMileage, Peakrpm:** These are all numeric features.
+**2. Carbody, Enginelocation, aspiration, company, drivewheel, enginetype, fueltype, fuelsystem, carmodel :** These are all nominal features.
 **3. Chest Pain Type:** Type of chest pain experienced by patient categorized into 1 typical, 2 typical angina, 3 non-anginal pain, 4 asymptomatic (Nominal)<br>
 **4. resting bp s:** Level of blood pressure at resting mode in mm/HG (Numerical)<br>
 **5. cholestrol:** Serum cholestrol in mg/dl (Numeric)<br>
