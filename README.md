@@ -45,13 +45,17 @@ In this Project I have unleashed the useful Data Science insights using this CAR
 This dataset consists of 27 features and a target variable. It has 9 nominal variables, 13 numeric variables, 5 ordinal variables. The detailed description of all the features are as follows:
 
 **1. wheelbase, carlength, carwidth, carheight, curbweight, enginesize, boreratio, stroke, compressionratio, horsepower, CityMileage, HighwayMileage, Peakrpm:** These are all numeric features.
-**2. Carbody, Enginelocation, aspiration, company, drivewheel, enginetype, fueltype, fuelsystem, carmodel :** These are all nominal features.
-**3. Chest Pain Type:** Type of chest pain experienced by patient categorized into 1 typical, 2 typical angina, 3 non-anginal pain, 4 asymptomatic (Nominal)<br>
-**4. resting bp s:** Level of blood pressure at resting mode in mm/HG (Numerical)<br>
-**5. cholestrol:** Serum cholestrol in mg/dl (Numeric)<br>
-**6. fasting blood sugar:** Blood sugar levels on fasting > 120 mg/dl represents as 1 in case of true and 0 as false (Nominal)<br>
-**7. resting ecg:** Result of electrocardiogram while at rest are represented in 3 distinct values 0 : Normal 1: Abnormality in ST-T wave 2: Left ventricular hypertrophy (Nominal)<br>
-**8. max heart rate:** Maximum heart rate achieved (Numeric)<br>
-**9. exercise angina:** Angina induced by exercise 0 depicting NO 1 depicting Yes (Nominal)<br>
-**10. oldpeak:** Exercise induced ST-depression in comparison with the state of rest (Numeric)<br>
-**11. ST slope:** ST segment measured in terms of slope during peak exercise 0: Normal 1: Upsloping 2: Flat 3: Downsloping (Nominal)<br>
+
+**2. Carbody, Enginelocation, aspiration, company, drivewheel, enginetype, fueltype, fuelsystem, carmodel:** These are all nominal features.
+
+**3. InsuranceRisk, Doornumber, Cylindernumber, PriceCategory, HP-Category:** These are all Ordinal features.
+
+## Selected Features for the Model
+
+**1. Carwidth:**
+**2. Cylindernumber:** Cylindernumber (5 & 4)
+**3. PriceCategory:** PriceCategory (Luxuary, Premium, Standard)
+**4. HP-Category:** HP-Category (Heavy-HP, Standard-HP)
+**5. Company:** Company (BMW, PORSCHE)
+**6. aspiration:** aspiration (turbo)
+**7. carbody:** carbody (convertible)
