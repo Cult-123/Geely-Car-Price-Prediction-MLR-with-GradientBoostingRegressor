@@ -53,9 +53,15 @@ This dataset consists of 27 features and a target variable. It has 9 nominal var
 ## Selected Features for the Model
 
 **1. Carwidth:**
+
 **2. Cylindernumber:** Cylindernumber (5 & 4)
+
 **3. PriceCategory:** PriceCategory (Luxuary, Premium, Standard)
+
 **4. HP-Category:** HP-Category (Heavy-HP, Standard-HP)
+
 **5. Company:** Company (BMW, PORSCHE)
+
 **6. aspiration:** aspiration (turbo)
+
 **7. carbody:** carbody (convertible)
