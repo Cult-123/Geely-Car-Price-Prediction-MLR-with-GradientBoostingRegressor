@@ -11,16 +11,17 @@ In this Project I will try to unleash useful insights using this CAR Price datas
 
 This Project is divided into 13 major steps which are as follows:
 
-1. [Data description](#data-desc)
+1. [Check out the Data](#data-desc)
 2. [Importing Libraries & setting up environment](#imp-lib)
 3. [Loading dataset](#data-load)
 4. [Data Cleaning & Preprocessing](#data-prep)
-5. [Exploratory Data Analysis](#data-eda)
-6. [OUtlier Detection & Removal](#data-out)
-7. [Training & Test Split](#data-train)
-8. [Cross Validation](#cross-val)
-9. [Model Building](#data-model)
-10. [Model evaluation & comparison](#model-eval)<br>
-11. [Feature Selection](#model-eval)<br>
-12. [Model Evaluation](#model-inter)
-13. [Conclusion](#data-conc)
+5. [Shapiro for Normality test of All Numeric Columns](#data-eda)
+6. [Spearman Correlation Test for Measures of Association between non-normal Datas](#data-out)
+7. [Outlier Treatment/Check](#data-train)
+8. [Skewness Check](#cross-val)
+9. [Exploratory Data Analysis ( EDA )](#data-model)
+10. [Measures of Association between Continuous and Categorical Variables](#model-eval)<br>
+11. [New Feature Creation](#model-eval)<br>
+12. [Removal/Selection of Categorical Features](#model-inter)
+13. [Saving The Cleaned CAR DataFrame](#data-conc)
+14. [Assigning Label & Features]
