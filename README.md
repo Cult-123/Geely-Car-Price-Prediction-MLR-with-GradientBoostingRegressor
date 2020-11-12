@@ -3,7 +3,7 @@ Python Data Science Project, Used Car Price Prediction using MLR algo with 98.27
 
 ## About the Car Price Prediction
 
-Price is Target variable & 26 Features are PriceCategory, Company, Aspiratiion, Carbody, Drivewheel, Wheelbase, Carlength, Carwidth, Curbweight, Enginetype, Cylindernumber, Enginesize, Fuelsystem, Boreratio, Horsepower, CityMileage, HighwayMileage, HP-Category, Enginelocation, Stroke, Fueltype, Peakrpm, Doornumber, Compressionratio, Carmodel, Carheight
+Price is Target variable & 27 Features are PriceCategory, Company, Aspiratiion, Carbody, Drivewheel, Wheelbase, Carlength, Carwidth, Curbweight, Enginetype, Cylindernumber, Enginesize, Fuelsystem, Boreratio, Horsepower, CityMileage, HighwayMileage, HP-Category, Enginelocation, Stroke, Fueltype, Peakrpm, Doornumber, Compressionratio, Carmodel, Carheight, InsuranceRisk
 
 ## Project Overview
 
@@ -42,7 +42,7 @@ In this Project I have unleashed the useful Data Science insights using this CAR
 
 ## About Data
 
-This dataset consists of 26 features and a target variable. It has 6 nominal variables and 5 numeric variables. The detailed description of all the features are as follows:
+This dataset consists of 27 features and a target variable. It has 9 nominal variables, 13 numeric variables, 5 ordinal variables. The detailed description of all the features are as follows:
 
 **1. Age:** Patients Age in years (Numeric)<br>
 **2. Sex:** Gender of patient (Male - 1, Female - 0) (Nominal)<br>
