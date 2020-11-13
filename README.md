@@ -60,7 +60,7 @@ This dataset consists of 27 features and a target variable. It has 9 nominal var
 
 **3. InsuranceRisk, Doornumber, Cylindernumber, PriceCategory, HP-Category:** These are all Ordinal features.
 
-## Selected Features for the Model
+## Selected Features for the Final Model
 **1. Carwidth:**
 
 **2. Cylindernumber:** Cylindernumber (5 & 4)
