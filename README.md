@@ -7,7 +7,7 @@ Price is Target variable & 27 Features are PriceCategory, Company, Aspiratiion, 
 
 ## Project Overview
 
-In this Project I have unleashed the useful Data Science insights using this CAR Price datasets and performed the feature selection precisely to build multiple linear regression model by combining the power of best statistical rules & principles to maximise accuracy at its best. The best thing is my model is not having Multicollinearity & Heteroscedasticity problem problem.
+In this Project I have unleashed the useful Data Science insights using this CAR Price dataset and performed the feature selection precisely to build multiple linear regression model by combining the power of best statistical rules & principles to maximise accuracy at its best. The best thing is my model is not having Multicollinearity & Heteroscedasticity problem.
 
 ## This Project is divided into 26 major steps which are as follows:
 
