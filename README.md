@@ -1,5 +1,12 @@
 # Used-Car-Price-Prediction-MLR-Evaluation-Result
-Python Data Science Project, Used Car Price Prediction using MLR algo with 98.27% accuracy, RMSE: 1148, MAE: 828, Mallow's_CP: 0.004, D_Watson: 2.17, No Multicollinearity, Homoscedastic Residual/Error Distribution
+Python Data Science Project, Used Car Price Prediction using MLR algo with:
+- 98.27% accuracy
+- RMSE: 1148
+- MAE: 828
+- Mallow's_CP: 0.004
+- D_Watson: 2.17
+- No Multicollinearity
+- Homoscedastic Residual/Error Distribution
 
 ## Problem Statement
 A Chinese automobile company Geely Auto aspires to enter the US market by setting up their manufacturing unit there and producing cars locally to give competition to their US and European counterparts.
