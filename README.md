@@ -1,11 +1,11 @@
 # Used-Car-Price-Prediction-MLR-Evaluation-With-GradientBoostingRegressor-Result
 Python Data Science Project, Used Car Price Prediction using MLR algo with GradientBoostingRegressor:
 - 98.27% accuracy (MLR)
-- 98.29% accuracy (GradientBoostingRegressor)
+- 99.13% accuracy (GradientBoostingRegressor)
 - RMSE: 1148 (MLR)
 - MAE: 828 (MLR)
-- RMSE: 1038 (GradientBoostingRegressor)
-- MAE: 794 (GradientBoostingRegressor)
+- RMSE: 742 (GradientBoostingRegressor)
+- MAE: 511 (GradientBoostingRegressor)
 - Mallow's_CP: 0.004 (MLR & GradientBoostingRegressor)
 - D_Watson: 2.17
 - No Multicollinearity
