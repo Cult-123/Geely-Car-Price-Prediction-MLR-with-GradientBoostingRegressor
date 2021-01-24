@@ -4,10 +4,13 @@ Python Data Science Project, Used Car Price Prediction using MLR algo with Gradi
 - 99.13% accuracy (GradientBoostingRegressor)
 - RMSE: 1148 (MLR)
 - MAE: 828 (MLR)
+- Kurtosis/Peakedness=[M4/M2^2]=4.175
+- Skewness=Mean-Mode=Positive=0.412
+- Regression Model Overall F-test for Regression Line Slope = MSR/MSE = 264.5
 - RMSE: 742 (GradientBoostingRegressor)
 - MAE: 511 (GradientBoostingRegressor)
 - Mallow's_CP: 0.004 (MLR & GradientBoostingRegressor)
-- D_Watson: 2.17
+- D_Watson: 2.023
 - No Multicollinearity
 - Homoscedastic Residual/Error Distribution
 
