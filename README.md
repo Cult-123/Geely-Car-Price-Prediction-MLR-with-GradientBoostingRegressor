@@ -1,5 +1,5 @@
 # Geely-Car-Price-Prediction-MLR-Evaluation-With-GradientBoostingRegressor-Result
-Python Data Science Project, Used Car Price Prediction using MLR algo with GradientBoostingRegressor:
+Python Data Science Project, Geely Car Price Prediction using MLR algo with GradientBoostingRegressor:
 - 98.27% accuracy (MLR)
 - 99.13% accuracy (GradientBoostingRegressor)
 - RMSE: 1148 (MLR)
