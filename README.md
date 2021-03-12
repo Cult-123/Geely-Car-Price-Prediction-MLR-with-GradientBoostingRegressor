@@ -72,6 +72,7 @@ In this Project I have unleashed the useful Data Science insights using this CAR
 27. [Heteroscedasticity Tests](#het-test)
 28. [Auto-Correlation plot](#auto-plot)
 29. [Gradient Boosting For Regression](#grad-boost)
+30. [GradientBoostingRegressor Deviance Check](#grad-boost)
 
 ## About Data
 This dataset consists of 27 features and a target variable. It has 9 nominal variables, 13 numeric variables, 5 ordinal variables. The detailed description of all the features are as follows:
