@@ -1,18 +1,26 @@
 # Geely-Car-Price-Prediction-MLR-Evaluation-With-GradientBoostingRegressor-Result
 Python Data Science Project, Geely Car Price Prediction using MLR algo with GradientBoostingRegressor:
-- 98.27% accuracy (MLR)
-- 99.13% accuracy (GradientBoostingRegressor)
-- RMSE: 1148 (MLR)
-- MAE: 828 (MLR)
-- Kurtosis/Peakedness=[M4/M2^2]=4.175
-- Skewness=Mean-Mode=Positive=0.412
-- Regression Model Overall F-test for Regression Line Slope = MSR/MSE = 264.5
-- RMSE: 742 (GradientBoostingRegressor)
-- MAE: 511 (GradientBoostingRegressor)
-- Mallow's_CP: 0.004 (MLR & GradientBoostingRegressor)
-- D_Watson: 2.023
+- 97.34% accuracy (MLR)
+- 97.49% accuracy (GradientBoostingRegressor with 14 Features)
+- 97.43% accuracy (GradientBoostingRegressor with 11 Features)
+- RMSE: 1191 (MLR)
+- MAE: 1015 (MLR)
+- D_Watson: 2.059
+- Kurtosis/Peakedness=[M4/M2^2]=5.494 (MLR)
+- Skewness=Mean-Mode=Positive=0.930 (MLR)
+- Regression Model Overall F-test for Regression Line Slope = MSR/MSE = 158.5 (MLR)
+- Mallow's_CP: 0.006 (MLR)
+- Probability (P-Value) of F-test for Regression Line Slope 2.11e-75 (MLR)
+- Jack Bera (goodness-of-fit) for Regression Model Residuals Normal Distribution & the Value is 66.171 & the P-Value of it is 4.28e-15 (MLR)
+- RMSE: 963 (GradientBoostingRegressor with 14 Features)
+- MAE: 777 (GradientBoostingRegressor with 14 Features)
+- RMSE: 899 (GradientBoostingRegressor with 11 Features)
+- MAE: 726 (GradientBoostingRegressor with 11 Features)
+- Mallow's_CP: 0.003 (GradientBoostingRegressor with 14 Features)
+- D_Watson: 1.939
 - No Multicollinearity
-- Homoscedastic Residual/Error Distribution
+- Homoscedastic 'Residual/Error Distribution' in All Models
+- No Autocorrelation in All Models 'Residual/Error Distribution'
 
 ## Problem Statement
 A Chinese automobile company Geely Auto aspires to enter the US market by setting up their manufacturing unit there and producing cars locally to give competition to their US and European counterparts.
