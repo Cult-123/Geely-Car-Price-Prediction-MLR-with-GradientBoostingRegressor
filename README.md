@@ -1,23 +1,26 @@
 # Geely-Car-Price-Prediction-MLR-Evaluation-With-GradientBoostingRegressor-Result
 Python Data Science Project, Geely Car Price Prediction using MLR algo with GradientBoostingRegressor:
-- 98.96% accuracy (MLR)
-- 97.49% accuracy (GradientBoostingRegressor with 14 Features)
-- 97.43% accuracy (GradientBoostingRegressor with 11 Features)
+- 99% accuracy (MLR)
 - RMSE: 658 (MLR)
 - MAE: 532 (MLR)
 - D_Watson: 2.004
-- Kurtosis/Peakedness=[M4/M2^2]=5.494 (MLR)
-- Skewness=Mean-Mode=Positive=0.930 (MLR)
+- Kurtosis/Peakedness=[M4/M2^2]=3.609 (MLR)
+- Skewness=Mean-Mode=Positive=0.351 (MLR)
 - Regression Model Overall F-test for Regression Line Slope = MSR/MSE = 150.3 (MLR)
 - Mallow's_CP: 0.0060 (MLR)
 - Probability (P-Value) of F-test for Regression Line Slope 3.26e-88 (MLR)
-- Jack Bera (goodness-of-fit) for Regression Model Residuals Normal Distribution & the Value is 66.171 & the P-Value of it is 4.28e-15 (MLR)
-- RMSE: 963 (GradientBoostingRegressor with 14 Features)
-- MAE: 777 (GradientBoostingRegressor with 14 Features)
-- RMSE: 899 (GradientBoostingRegressor with 11 Features)
-- MAE: 726 (GradientBoostingRegressor with 11 Features)
-- Mallow's_CP: 0.003 (GradientBoostingRegressor with 14 Features)
-- D_Watson: 1.939
+- Jack Bera (goodness-of-fit) for Regression Model Residuals Normal Distribution & the Value is 5.910 & the P-Value of it is 0.0521 (MLR)
+
+- 98% accuracy (GradientBoostingRegressor with 10 Features)
+- RMSE: 864 (GradientBoostingRegressor with 10 Features)
+- MAE: 688 (GradientBoostingRegressor with 10 Features)
+- D_Watson: 1.93
+- Kurtosis/Peakedness=[M4/M2^2]=3.280 (GradientBoostingRegressor)
+- Skewness=Mean-Mode=Positive=0.304 (GradientBoostingRegressor)
+- Gradient Boosting Regression Model Overall F-test for model Line Slope = MSR/MSE = 280.2 (GradientBoostingRegressor)
+- Mallow's_CP: 0.0040 (GradientBoostingRegressor with 10 Features)
+- Probability (P-Value) of F-test for Regression Line Slope 6.15e-105 (GradientBoostingRegressor)
+- Jack Bera (goodness-of-fit) for Regression Model Residuals Normal Distribution & the Value is 3.060 & the P-Value of it is 0.216 (GradientBoostingRegressor)
 - No Multicollinearity
 - Homoscedastic 'Residual/Error Distribution' in All Models
 - No Autocorrelation in All Models 'Residual/Error Distribution'
