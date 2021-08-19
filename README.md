@@ -15,6 +15,12 @@ Python Data Science Project, Geely Car Price Prediction using MLR algo with Grad
 - Jack Bera (goodness-of-fit) for Regression Model Residuals Normal Distribution & the Value is 5.910 & the P-Value of it is 0.0521 (MLR)
 
 ![](Images/Car3.JPG)
+![](Images/Car4.JPG)
+![](Images/Car5.JPG)
+![](Images/Car6.JPG)
+![](Images/Car7.JPG)
+![](Images/Car8.JPG)
+![](Images/Car9.JPG)
 
 - 98% accuracy (GradientBoostingRegressor with 10 Features)
 - RMSE: 864 (GradientBoostingRegressor with 10 Features)
