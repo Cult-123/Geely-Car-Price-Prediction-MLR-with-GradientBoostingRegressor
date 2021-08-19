@@ -21,6 +21,7 @@ Python Data Science Project, Geely Car Price Prediction using MLR algo with Grad
 ![](Images/Car7.JPG)
 ![](Images/Car8.JPG)
 ![](Images/Car9.JPG)
+![](Images/Car11.JPG)
 
 - 98% accuracy (GradientBoostingRegressor with 10 Features)
 - RMSE: 864 (GradientBoostingRegressor with 10 Features)
