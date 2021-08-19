@@ -1,5 +1,8 @@
 # Geely-Car-Price-Prediction-MLR-Evaluation-With-GradientBoostingRegressor-Result
 Python Data Science Project, Geely Car Price Prediction using MLR algo with GradientBoostingRegressor:
+
+![](Images/Car1.JPG)
+
 - 99% accuracy (MLR)
 - RMSE: 658 (MLR)
 - MAE: 532 (MLR)
@@ -10,6 +13,8 @@ Python Data Science Project, Geely Car Price Prediction using MLR algo with Grad
 - Mallow's_CP: 0.0060 (MLR)
 - Probability (P-Value) of F-test for Regression Line Slope 3.26e-88 (MLR)
 - Jack Bera (goodness-of-fit) for Regression Model Residuals Normal Distribution & the Value is 5.910 & the P-Value of it is 0.0521 (MLR)
+
+![](Images/Car3.JPG)
 
 - 98% accuracy (GradientBoostingRegressor with 10 Features)
 - RMSE: 864 (GradientBoostingRegressor with 10 Features)
